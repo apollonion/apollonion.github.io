@@ -1,0 +1,8 @@
+@font-face {
+	font-family: Canterbury;
+	src: url(fonts/Canterbury.ttf);
+}
+
+p {
+	font-family: Canterbury;
+}
