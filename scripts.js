@@ -1,0 +1,1 @@
+window.location.replace('https://apollonion1.neocities.org/');
